@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "root";
-$pass = "1234@#+";
+$pass = "";
 $db = "thailand_web";
 
 $connect= mysql_connect($host,$user,$pass,$db);
